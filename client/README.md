@@ -1,5 +1,20 @@
-# Vue 3 + Vite
+# API Gatólicos Gatos Abandonados
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+¡Bienvenido a la API de Gatos Abandonados! Esta API te permite acceder y gestionar información sobre gatos abandonados. Puedes obtener detalles sobre gatos disponibles para adopción, registrar nuevos gatos abandonados, actualizar información existente y eliminar registros.
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+## Tabla de Contenidos
+
+- [Descripción](#descripción)
+- [Instalación](#instalación)
+- [Uso](#uso)
+- [Endpoints](#endpoints)
+- [Contribuciones](#contribuciones)
+- [Licencia](#licencia)
+
+## Descripción
+
+La API de Gatos Abandonados proporciona una interfaz para gestionar datos relacionados con gatos abandonados. Está diseñada para ser utilizada por refugios de animales, organizaciones de rescate y cualquier persona interesada en ayudar a los gatos abandonados a encontrar un hogar.
+
+## Instalación
+
+
